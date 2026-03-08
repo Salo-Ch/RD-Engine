@@ -7,4 +7,4 @@ while it doesn't even have a GUI, I'm pretty proud of the result for the time I 
 
 As this was mostly a learning experience, no AI was used during its development.
 
-This project also contains a game I made with the engine: The Phantom Furniture Frenzy, which I made, along with parts of the engine, over the course of two weeks.
+This project also contains a game I made with the engine: [The Phantom Furniture Frenzy](https://shlomito.itch.io/the-phantom-furniture-frenzy), which I made, along with parts of the engine, over the course of two weeks.
